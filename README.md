@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm ameer hamza</h1>
+## Hi 👋, I'm ameer hamza
 
 Hello, I'm ameer hamza, a Full Stack Engineer with a passion for building web and mobile applications. Welcome to my GitHub repository showcasing my skills and projects in the world of web development. This repository contains a collection of projects and code samples that demonstrate my expertise in various technologies, including React, React Native, Node.js, Express, MongoDB, Next.js, Firebase, Shopify, WordPress, and more.
 
